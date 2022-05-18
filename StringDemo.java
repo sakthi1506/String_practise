@@ -44,6 +44,9 @@ public class StringDemo {
         System.out.println(stringBuilder1.hashCode());
         System.out.println(name1.hashCode());
         System.out.println(name1);
+        
+        System.out.println("hello new line added this");
+        // Thank you!!!!!!!
 
 
 
